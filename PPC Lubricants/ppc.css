@@ -1,0 +1,262 @@
+body{
+		width:970px;
+		background:linear-gradient(to right,black,#4E4E4c,black); 
+}
+
+button{
+	background-color:#FFD057; 
+	background-image:url(file:///Users/shayfansiewalker/Desktop/BUTTON.png);
+	border-style:none; 
+	width:98px;
+	height:22px;
+	font-size:8px;
+	font-family:sans-serif; 
+
+
+}
+#automotive button{
+	margin-left:90px; 
+
+
+}
+h1{
+	display:; 
+	
+
+}
+#header{
+	display:inline-block; 
+	background:linear-gradient(#EDEDED,white); 
+	width:965px;
+	text-align:right;
+
+	padding-right:30px; 
+	font-family:sans-serif;
+	font-size:8px;  
+	
+	 
+}
+img#lube{
+	margin-top:20px; 
+	padding-right:340px; 
+	margin-bottom:-16px; 
+
+
+}
+#nav_bar{
+	background:linear-gradient(#EDEDED,white); 
+	margin-top:-16px;
+	margin-right:-17px;
+	padding-bottom:5px; 
+	text-align:center;
+
+
+}
+#nav_bar li{
+	display:inline-block; 
+	border-right:1px solid black;
+	padding-right:10px;
+	padding-left:10px; 
+	color:#666666;
+	font-family:sans-serif; 
+	font-size:12px; 
+	font-weight:bold;
+	
+
+}
+#about{
+	background:linear-gradient(to right,#777776,#757573,#373737);
+	width:560px;
+	display:inline-block; 
+	height:300px; 
+	margin-left:29px; 
+	margin-top:15px;
+		}
+img#tree{
+	display:inline-block; 
+	vertical-align:top;
+	padding-top:15px; 
+
+	   
+}
+#about h1{
+	background-color:#FFD057; 
+	text-align:left; 
+	font-size:15px; 
+	font-family:sans-serif; 
+	padding-bottom:10px; 
+	width:560px;
+	padding-top:10px; 
+	margin-top:1px; 
+
+
+}
+#about h2{
+	text-align:left;
+	 margin-top:5px;
+	text-indent:15px;
+	color:white; 
+	font-size:15px; 
+	font-family:sans-serif; 
+
+}
+h3{
+	color:#92985A;
+	font-size:12px;
+	font-family:sans-serif; 
+}
+
+h3 img{
+	height:14px;
+	width:45px;
+	border-radius:4px; 
+	margin-left:30px;
+
+}
+#about p{
+	text-align:left;
+	
+	font-size:12.5px; 
+	color:white; 
+	padding-left:18px;
+	font-family:sans-serif; 
+	margin-bottom:-5px;
+	font-weight:normal;
+	 
+
+	
+
+}
+
+#automotive{
+	width:221px;
+	background-color:white; 
+	height:289px;
+	
+	display:inline-block;
+	margin-right:17px; 
+	margin-left:15px; 
+
+}
+
+#automotive h3{
+	background-color:#FFD237; 
+	color:black;
+	font-size:10px;
+	font-family:sans-serif;
+	 padding-top:5px; 
+	padding-left:10px;  
+	padding-bottom:5px; 
+	margin-top:1px; 
+	margin-bottom:1px;
+
+}
+#automotive p{
+	text-align:left; 
+	font-size:12px; 
+	font-family:sans-serif; 
+	padding-left:10px; 
+	font-weight:normal; 
+
+}
+#commercial{
+	width:222px;
+	margin-right:19px; 
+	background-color:white; 
+	height:294px;
+	display:inline-block;
+	margin-top:35px; 
+}
+
+#commercial h4{
+	
+	background-color:#FFD237; 
+	font-size:10px; 
+	font-family:sans-serif;
+	padding-left:10px; 
+	margin-top:1px; 
+	padding-top:5px;
+	padding-bottom:5px;
+	margin-bottom:1px; 
+
+}
+#commercial p{
+	font-size:12px; 
+	font-family:sans-serif; 
+	padding-bottom:10px;
+	padding-top:6px; 
+	padding-left:10px; 
+	font-weight:normal;
+}
+
+
+#commercial button{
+	margin-left:100px; 
+}
+
+#industrial{
+	width:221px;
+	
+	
+	background-color:white; 
+	height:290px;
+	display:inline-block;
+	margin-right:20px; 
+
+}
+
+
+#industrial h5{
+		background-color:#FFD237; 
+		font-size:10px; 
+		font-family:sans-serif;
+		padding-left:10px; 
+		margin-top:1px; 
+		padding-bottom:5px;  
+		padding-top:8px; 
+		margin-bottom:1px; 
+}
+#industrial p{
+	font-size:12px; 
+	font-family:sans-serif;
+	padding-left:10px;
+	font-weight:normal;   
+}
+#industrial button{
+	margin-left:100px; 
+}
+#diesel{
+	width:221px;
+	
+	
+	height:289px;
+	background-color:white; 
+	
+	display:inline-block; 
+	margin-top:15px;  
+
+}
+#diesel p{
+	font-size:12px; 
+	font-family:sans-serif; 
+	padding-left:10px; 
+	font-weight:normal;
+}
+#diesel img{
+	margin-top:-8px; 
+	
+}
+#diesel h6{
+	
+	background-color:#FFD237; 
+	font-size:10px; 
+	font-family:sans-serif;
+	padding-left:10px;  
+	padding-bottom:5px;
+	padding-top:8px; 
+	margin-top:-2px; 
+	margin-bottom:9px; 
+}
+#diesel button{
+	margin-left:100px; 
+}
